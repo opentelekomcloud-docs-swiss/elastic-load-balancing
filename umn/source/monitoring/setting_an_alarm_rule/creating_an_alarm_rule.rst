@@ -1,0 +1,26 @@
+:original_name: elb_ug_jk_0003.html
+
+.. _elb_ug_jk_0003:
+
+Creating an Alarm Rule
+======================
+
+#. Log in to the management console.
+
+#. Under **Management & Deployment**, click **Cloud Eye**.
+
+#. In the navigation pane on the left, choose **Alarm Management** > **Alarm Rules**.
+
+#. On the displayed **Alarm Rules** page, click **Create Alarm Rule**.
+
+   The following describes how to create an alarm rule for a load balancer.
+
+   a. **Resource Type**: Select **Elastic Load Balancer**.
+   b. For **Dimension**, select **Elastic Load Balancers** or **Listeners** or **Elastic Load Balancers - Listeners** or **Elastic Load Balancers - Backend Server Group**. In the following operations, a load balancer is used as an example.
+   c. Configure other parameters as required and then click **Create**.
+
+   Once the alarm rule is created and the notification function has been enabled, the system automatically sends you a notification when an alarm is generated.
+
+   .. note::
+
+      For more information about alarm rules of load balancers and listeners, see the *Cloud Eye User Guide*.
