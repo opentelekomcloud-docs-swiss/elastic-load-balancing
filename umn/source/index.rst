@@ -14,6 +14,7 @@ Elastic Load Balancing - User Guide
    health_check/index
    certificate/index
    tag
+   access_logging
    monitoring/index
    quotas
    faq/index
