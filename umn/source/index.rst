@@ -16,6 +16,7 @@ Elastic Load Balancing - User Guide
    tag
    access_logging
    monitoring/index
+   auditing/index
    quotas
    faq/index
    change_history
