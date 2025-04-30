@@ -38,6 +38,7 @@ otcdocs_doc_type = 'umn'
 otcdocs_service_category = 'network'
 otcdocs_service_title = 'Elastic Load Balancing'
 otcdocs_service_type = 'elb'
+otcdocs_cloud_environment = 'swiss'
 otcdocs_search_environment = 'hc_swiss'
 otcdocs_search_index = 'search_index_swiss'
 otcdocs_search_url = "https://opensearch.eco.tsi-dev.otc-service.com/"
