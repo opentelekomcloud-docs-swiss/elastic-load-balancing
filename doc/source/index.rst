@@ -9,5 +9,6 @@ Elastic Load Balancing (ELB) is a service that automatically distributes access 
 
    .. service_card::
       :service_type: elb
+      :cloud_environment: swiss
       :umn: This document describes Elastic Load Balancing service, helping you quickly create and properly use the service.
       :api-ref: This document describes application programming interfaces (APIs) of Elastic Load Balancing (ELB) and provides API parameter description and example values.
